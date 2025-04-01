@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9H6VFQr6ZE=",
+  "success": true,
+  "projectFilePath": "F:\\Software\\Programme\\Microsoft Visual Studio\\Program\\TuringSmartScreenClient\\TuringSmartScreenClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zheng\\.nuget\\packages\\system.codedom\\9.0.3\\system.codedom.9.0.3.nupkg.sha512",
+    "C:\\Users\\zheng\\.nuget\\packages\\system.management\\9.0.3\\system.management.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
